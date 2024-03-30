@@ -1,0 +1,9 @@
+.gambar-logo{
+    opacity: .8
+}
+#donutChart{
+    min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;
+}
+#donutChart2{
+    min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;
+}
